@@ -3,8 +3,8 @@ import Profile from './profileasdf/Profile';
 import userData from './profileasdf/userData.json';
 import friends from './friendListasdf/friends.json';
 import FriendList from './friendListasdf/FriendList';
-import transactions from './transactionHistory/transactions.json';
-import TransactionHistory from './transactionHistory/TransactionHistory';
+import transactions from './transactionHistoryasdf/transactions.json';
+import TransactionHistory from './transactionHistoryasdf/TransactionHistory';
 const App = () => {
   return (
     <>
